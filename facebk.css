@@ -1,0 +1,42 @@
+.whitebox
+{
+    background: white;
+    width: 80%;
+    align-items: center;
+    border-radius: 6px;
+    border-color: rgb(244, 232, 232);
+    border-style: outset;
+    padding: 1rem;
+    
+}
+.formcontainer
+{
+    padding-top: 20px;
+}
+.box{
+    border-radius: 5px;
+    border-width: .5px;
+    font-size: medium;
+
+}
+.logos
+{
+ padding: 4em;
+
+}
+.create
+{
+    padding-left: 8em;
+}
+.fline
+{
+    color:#8a8d91;
+}
+imglogo
+{
+    padding-left: 0%;
+}
+
+
+
+
